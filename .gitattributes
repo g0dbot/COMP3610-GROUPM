@@ -1,3 +1,4 @@
 models_trained/CNN_baroque.keras filter=lfs diff=lfs merge=lfs -text
 models_trained/CNN_expressionism.keras filter=lfs diff=lfs merge=lfs -text
 models_trained/CNN_impressionism.keras filter=lfs diff=lfs merge=lfs -text
+models_trained/CNN_post_impressionism.keras filter=lfs diff=lfs merge=lfs -text
